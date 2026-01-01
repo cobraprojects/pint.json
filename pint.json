@@ -60,9 +60,8 @@
         "concat_space": {
             "spacing": "one"
         },
-        "braces_position": {
-            "functions_opening_brace": "next_line",
-            "classes_opening_brace": "next_line"
+        "trailing_comma_in_multiline": {
+            "elements": ["arrays", "arguments", "parameters", "match"]
         },
         "ordered_imports": {
             "sort_algorithm": "alpha",
